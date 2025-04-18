@@ -1,0 +1,7 @@
+An AR based Indoor Navigation System, designed in Unity Engine.
+
+Made a spatial Map using Immersal Mapper (app) (files are added)
+Add Immersal SDK Package from GIT on unity package manager
+Uploaded the Map (sparse PLY) on Unity and set Anchor points (targets) on desired Location
+Add "Navigation UI" prefab that helps us in Navigation and App building.
+Start the build and run the APK on your Android Phone
